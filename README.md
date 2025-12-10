@@ -42,14 +42,14 @@ Make sure your local LLM server is running before starting the application.
 ## 📁 Project Structure
 
 src/
-└── main/
-└── java/
-└── org/example/
-├── Main.java
-├── ChatWindow.java
-├── Conversation.java
-└── LlamaClient.java
-pom.xml
+└── main/  
+└── java/  
+└── org/example/  
+├── Main.java  
+├── ChatWindow.java  
+├── Conversation.java  
+└── LlamaClient.java  
+pom.xml  
 .gitignore
 
 
