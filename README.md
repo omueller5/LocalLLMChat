@@ -41,7 +41,7 @@ Make sure your local LLM server is running before starting the application.
 
 ## 📁 Project Structure
 
-src/
+src/  
 └── main/  
 └── java/  
 └── org/example/  
